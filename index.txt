@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 c
 a
 d
+=======
+<<<<<<< HEAD
+>>>>>>> d05a41e... feature c
 e
 b
+=======
+c
+>>>>>>> dae6c5d... feature c
