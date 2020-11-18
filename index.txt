@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 e
 b
+=======
+c
+>>>>>>> dae6c5d... feature c
